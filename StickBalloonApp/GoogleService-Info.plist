@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>543898094291-8i267jj2pojv4mastof8cmnp88p4ls9d.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.543898094291-8i267jj2pojv4mastof8cmnp88p4ls9d</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB7sCE2TLUb6JOXOlJBb2pEspo1FUKrkVM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>543898094291</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>tokyo.t6sdl.StickBalloonApp</string>
+	<key>PROJECT_ID</key>
+	<string>stickballoon-5b627</string>
+	<key>STORAGE_BUCKET</key>
+	<string>stickballoon-5b627.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:543898094291:ios:e417084bfadc7355</string>
+	<key>DATABASE_URL</key>
+	<string>https://stickballoon-5b627.firebaseio.com</string>
+</dict>
+</plist>
