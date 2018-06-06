@@ -1,0 +1,6 @@
+framework module Pods_StickBalloonAppUITests {
+  umbrella header "Pods-StickBalloonAppUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

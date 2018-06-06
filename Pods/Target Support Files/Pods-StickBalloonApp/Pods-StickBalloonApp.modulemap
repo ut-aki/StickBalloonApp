@@ -1,0 +1,6 @@
+framework module Pods_StickBalloonApp {
+  umbrella header "Pods-StickBalloonApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
